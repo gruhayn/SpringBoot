@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Unitech">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Unitech/src/main/java" />
+      <root url="file://$PROJECT_DIR$/Unitech/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
